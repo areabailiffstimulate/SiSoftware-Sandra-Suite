@@ -1,0 +1,23 @@
+{
+  "repo": "sisoftware-sandra-suite",
+  "product": "SiSoftware Sandra Suite",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "sisoftware-sandra",
+    "sisoftware-windows",
+    "system-tools-desktop",
+    "how-to-install-sisoftware",
+    "sisoftware-sandra-desktop-package",
+    "sisoftware-workspace",
+    "sisoftware-sandra-pro-tools",
+    "sisoftware-suite",
+    "zentool-sisoftware",
+    "sisoftware-sandra-tool-9"
+  ],
+  "site": "zentool.art"
+}
